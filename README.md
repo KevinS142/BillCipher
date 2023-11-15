@@ -27,7 +27,7 @@ BillCipher can work in any operating system if they have and support Python 2, P
  # Install and Run in Linux
     sudo apt update && sudo apt install ruby python python-pip python3 python3-pip
     sudo apt install httrack whatweb
-    git clone https://github.com/GitHackTools/BillCipher
+    git clone https://github.com/KevinS142/BillCipher
     cd BillCipher
     pip install -r requirements.txt
     pip3 install -r requirements.txt
